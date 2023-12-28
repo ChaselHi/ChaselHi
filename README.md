@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chasel
-- 👀 I’m interested in China Guangdong.
-- 🌱 I’m currently learning
+- 👀 Currently living in Zhongshan.
 - 🤔 Focus on front-end development ...
 
 ### 🛠 Technology Stack 
