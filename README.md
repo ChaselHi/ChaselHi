@@ -19,7 +19,7 @@
 </p>
 
 
-[![Y.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=ChaselHi&theme=xcode)](https://github.com/ChaselHi)
+
 
 
 <!---
